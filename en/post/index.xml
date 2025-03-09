@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | My Site</title>
+    <link>https://dsyakovleva.github.io/en/post/</link>
+      <atom:link href="https://dsyakovleva.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dsyakovleva.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Blog</title>
+      <link>https://dsyakovleva.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://dsyakovleva.github.io/en/post/01/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://dsyakovleva.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;моя-неделя-вдохновение-и-новые-открытия&#34;&gt;Моя неделя: вдохновение и новые открытия&lt;/h2&gt;
+&lt;p&gt;На этой неделе я погрузилась в изучение новых тем по программированию.
+Одним из самых интересных открытий стал курс по алгоритмам,
+где мы разбирали задачи на графы. Это было непросто, но безумно
+увлекательно!&lt;/p&gt;
+&lt;p&gt;Также в университете у нас прошла лекция по системному программированию,
+где я узнала, как работают операционные системы на низком уровне.
+Теперь я точно понимаю, как важна эта база для разработки сложных
+приложений.&lt;/p&gt;
+&lt;p&gt;Среди личных достижений — я наконец-то разобралась в настройке
+своего окружения для работы с Linux, что очень облегчило мою учебу.&lt;/p&gt;
+&lt;p&gt;Неделя была насыщенной и мотивирующей, и я с нетерпением жду новых вызовов.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
