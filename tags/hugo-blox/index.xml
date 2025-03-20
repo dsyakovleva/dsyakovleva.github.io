@@ -5,12 +5,29 @@
     <link>https://dsyakovleva.github.io/tags/hugo-blox/</link>
       <atom:link href="https://dsyakovleva.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dsyakovleva.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://dsyakovleva.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://dsyakovleva.github.io/post/02/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://dsyakovleva.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;-итоги-учебной-недели&#34;&gt;📚 Итоги учебной недели&lt;/h1&gt;
+&lt;p&gt;Привет! Это Дарья, студентка первого курса прикладной информатики. 🎓&lt;/p&gt;
+&lt;p&gt;Эта неделя была насыщенной:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔹 Разбирались с алгоритмами и структурами данных — мозг закипал, но стало понятнее!&lt;/li&gt;
+&lt;li&gt;🔹 Познакомились с Markdown — теперь знаю, как красиво оформлять текст.&lt;/li&gt;
+&lt;li&gt;🔹 Практиковались в программировании на C++, решали задачи на циклы и массивы.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Учеба идет полным ходом, жду следующей недели! 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
