@@ -5,7 +5,7 @@
     <link>https://dsyakovleva.github.io/tags/hugo/</link>
       <atom:link href="https://dsyakovleva.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://dsyakovleva.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
@@ -13,27 +13,37 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://dsyakovleva.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://dsyakovleva.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://dsyakovleva.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://dsyakovleva.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://dsyakovleva.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://dsyakovleva.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Как ученому заявить о себе: персональный сайт на Hugo Academic</title>
+      <link>https://dsyakovleva.github.io/project/hugo/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://dsyakovleva.github.io/project/hugo/</guid>
+      <description>&lt;h2 id=&#34;цифровая-витрина-для-научной-карьеры&#34;&gt;Цифровая витрина для научной карьеры&lt;/h2&gt;
+&lt;p&gt;Современный ученый давно вышел за пределы лаборатории и печатных журналов. Публикации, проекты, конференции, курсы — всё это требует представления. Вместо разрозненных ссылок и устаревших резюме можно создать единое, стильное и удобное пространство — &lt;strong&gt;персональный сайт&lt;/strong&gt;. И здесь на помощь приходит &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;что-такое-hugo-academic&#34;&gt;Что такое Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Это готовый шаблон сайта для исследователей и преподавателей, построенный на сверхбыстром генераторе Hugo. Он позволяет создать персональную страницу, не погружаясь в веб-разработку, и при этом — сохранить гибкость и контроль над содержанием.&lt;/p&gt;
+&lt;h2 id=&#34;чем-полезен-сайт-ученому&#34;&gt;Чем полезен сайт ученому?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Концентрирует профессиональный путь.&lt;/strong&gt; Исследования, публикации, презентации и проекты — всё в одном месте.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Повышает узнаваемость.&lt;/strong&gt; При поиске вашего имени в интернете первым делом появится не случайная новость, а ваш сайт.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Упрощает связи.&lt;/strong&gt; Контактная информация, профили в сетях и научных базах доступны без лишних кликов.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ускоряет доступ к публикациям.&lt;/strong&gt; Больше не нужно пересылать статьи по запросу — они уже размещены на сайте.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;структура-без-лишнего&#34;&gt;Структура без лишнего&lt;/h2&gt;
+&lt;p&gt;Сайт на Hugo Academic не перегружен: он чёткий, минималистичный и сфокусирован на главном. Вот типичная структура:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Главная страница.&lt;/strong&gt; С кратким представлением и фото.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Публикации.&lt;/strong&gt; Ссылки на статьи, тезисы и книги, оформленные по академическим стандартам.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Проекты и исследования.&lt;/strong&gt; Описание направлений работы, в том числе междисциплинарных.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Преподавание.&lt;/strong&gt; Курсы, методички, ссылки на обучающие материалы.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Блог.&lt;/strong&gt; Если вы хотите делиться размышлениями или пояснять сложные темы простым языком.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;гибкость-без-стресса&#34;&gt;Гибкость без стресса&lt;/h2&gt;
+&lt;p&gt;Несмотря на то, что Hugo — это статический генератор сайтов, Hugo Academic избавляет от технических сложностей. Вы работаете с простыми текстовыми файлами, настраиваете внешний вид через конфигурацию и получаете чистый, быстрый и защищённый сайт.&lt;/p&gt;
+&lt;p&gt;А самое приятное — вы не зависите от внешних платформ. Всё, что на сайте, — ваше. Без рекламы, навязанных интерфейсов и внезапных изменений политики.&lt;/p&gt;
+&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
+&lt;p&gt;Сайт научного работника — это не роскошь, а современный стандарт. Он не только помогает показать, кто вы и чем занимаетесь, но и создает новый канал общения с академическим и профессиональным сообществом.&lt;br&gt;
+Hugo Academic — это простой способ сделать этот шаг грамотно, красиво и эффективно.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
